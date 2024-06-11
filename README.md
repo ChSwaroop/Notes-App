@@ -10,3 +10,4 @@ Now the project is ready , and run "flutter pub get" in terminal
 Then choose the device(mobile/web) to run the project and click on run button.
 
 # To directly install apk
+The apk is provided along with project folder in the git hub so, just download it and install on your mobile
